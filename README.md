@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-caprices-du-destin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Les Caprices Du Destin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-caprices-du-destin/) |
+| **Get License** | [License this song: Les Caprices Du Destin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-caprices-du-destin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tes yeux brillent dans la pénombre, c’est le game de la nuit
+> J’ai le cœur sur la piste, t'es mon VIP, my sweetie
+> Monte avec moi, on s’évade sous les néons de Paris
+> C’est chic, c'est charnel, t’es ma plus belle insomnie
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
